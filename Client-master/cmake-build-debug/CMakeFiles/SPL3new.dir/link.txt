@@ -1,0 +1,1 @@
+/usr/bin/c++  -lboost_system -lboost_thread -pthread -g CMakeFiles/SPL3new.dir/src/Task.cpp.o CMakeFiles/SPL3new.dir/src/encoderDecoder.cpp.o CMakeFiles/SPL3new.dir/src/bidiProtocol.cpp.o CMakeFiles/SPL3new.dir/src/bidiClient.cpp.o CMakeFiles/SPL3new.dir/src/connectionHandler.cpp.o -o SPL3new  /usr/lib/x86_64-linux-gnu/libboost_system.so 
